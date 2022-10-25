@@ -40,3 +40,11 @@ ideally < 30 minutes
 ### How
 create an atmosphere conducive for YOUR task (getting info)
 
+## Validation
+> ensure information you wrote is accurate and works
+- self validation
+- peer review (consult another writer)
+- SME validation
+- information (!formatting)
+
+## Clustering Information
